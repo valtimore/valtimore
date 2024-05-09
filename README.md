@@ -46,12 +46,5 @@
 
 <img align="right" height="120" src="https://i.gifer.com/7d1.gif"  />
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31renfux7zvadrmbawzsxbbibnbq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31renfux7zvadrmbawzsxbbibnbq&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
