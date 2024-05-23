@@ -1,4 +1,4 @@
-<h2 align="center">♡ Hi! My name is Valti and I'm a Front-End student from Colombia ⋆ﾟ⊹</h2>
+<h2 align="center">Hi! My name is Valti and I'm a Front-End student from Colombia</h2>
 
 ###
 
