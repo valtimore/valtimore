@@ -26,7 +26,7 @@
   <a href="https://www.twitch.tv/valtimore_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
-  <a href="www.linkedin.com/in/valentina-londoño-6131952b0" target="_blank">
+  <a href="https://www.linkedin.com/in/valentina-londoño-dueñas-6131952b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
